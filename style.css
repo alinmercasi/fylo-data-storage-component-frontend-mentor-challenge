@@ -171,7 +171,8 @@ body {
   since I couldn't find a way to insert the buble in normal document flow
   If you read this and have some ideas feel free to make a PR :)
   */
-  .bubble > div {
+  .bubble > .fake {
+    display: block;
     margin-left: calc(-1 * var(--size-ml));
     position: relative;
   }
