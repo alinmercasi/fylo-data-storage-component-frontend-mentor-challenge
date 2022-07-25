@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-I finally got a good idea of how css grid works
+I finally got a basic idea of how css grid works
 
 ## Author
 
