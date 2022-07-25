@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Solution](https://www.frontendmentor.io/solutions/resposive-mobile-first-using-css-grid-bCcyoLoHPo)
+- Live Site URL: [View live Demo](https://alinmercasi.github.io/fylo-data-storage-component-frontend-mentor-challenge/)
 
 ## My process
 
